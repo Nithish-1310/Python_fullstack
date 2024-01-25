@@ -1,0 +1,3 @@
+i/p - #C:\Users\.....>python C:\Users\....\OneDrive\Desktop\hello_world.py
+o/p - hello world
+this is called Absolute path
